@@ -2,7 +2,7 @@
 Automate the bulk deletion of users in a Netskope tenant using the SCIM API
 
 ## Features
-- Supports **macOS (Bash)**
+- Supports **macOS (Bash)**.
 - Accepts a CSV user list.
 - Validates CSV input and skips invalid or blank lines.
 - Handles authentication, errors, and summary reporting.
